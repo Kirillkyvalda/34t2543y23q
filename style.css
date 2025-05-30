@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color:rgb(210, 211, 161);
+}
+h1{ 
+ background-image: linear-gradient(white,blue,red);
+    text-align: center; 
+}
+a:hover{
+    background-image: linear-gradient(white,blue,red);
+    border-radius: 3px;
+    color: white;
+}
+p{
+    font-size: 20px;
+}
+main p{
+    padding: 50px;
+    background-color:white;
+    border-radius: 30px;
+    margin:20px
+}
+
+
+
